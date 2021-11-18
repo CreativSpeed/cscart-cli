@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LanguageName\n"
+"Language: LanguageCode\n"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "LangaugeLocalName"
+
+msgctxt "Addons::name::LowerCaseAddonName"
+msgid "StudlyAddonName"
+msgstr "StudlyAddonName"
+
+msgctxt "Addons::description::LowerCaseAddonName"
+msgid "AddonDescription. Created by <a target=\"_blank\" href=\"http://creativspeed.com/\">CreativSpeed.com</a>."
+msgstr "AddonDescription. Created by <a target=\"_blank\" href=\"http://creativspeed.com/\">CreativSpeed.com</a>."

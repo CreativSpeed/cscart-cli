@@ -1,0 +1,13 @@
+<?php
+
+/*
+*
+* PLEASE READ THE FULL TEXT  OF THE SOFTWARE  LICENSE   AGREEMENT
+* IN  THE "LICENSE.txt" FILE PROVIDED WITH THIS DISTRIBUTION PACKAGE.
+*
+*/
+
+// addon Configuration
+defined('BOOTSTRAP') or die('Access denied');
+
+fn_define("AUTHOR", "CreativSpeed");
