@@ -4,7 +4,8 @@
         "app",
         "bootstrap",
         "config",
-        "vendor"
+        "vendor",
+        "resources"
     ],
     "files": [
         "composer.json"
@@ -14,5 +15,6 @@
     "compactors": [
         "KevinGH\\Box\\Compactor\\Php",
         "KevinGH\\Box\\Compactor\\Json"
-    ]
+    ],
+    "exclude-dev-files": false
 }
