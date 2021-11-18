@@ -24,7 +24,7 @@ class AddonUnlink extends SymlinkFile
      *
      * @var string
      */
-    protected $description = 'delete symbolik linking cs-cart Add-on tfrom cs-cart installation';
+    protected $description = 'delete symbolik linking cs-cart Add-on from Cs-cart installation';
 
     protected Addon $addon;
 
